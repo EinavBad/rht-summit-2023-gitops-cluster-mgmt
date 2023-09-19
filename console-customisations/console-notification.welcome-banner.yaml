@@ -3,7 +3,7 @@ kind: ConsoleNotification
 metadata:
   name: welcome-banner
 spec:
-  backgroundColor: '#EE0000'
+  backgroundColor: 'grey'
   color: 'pink'
   link:
     href: https://www.redhat.com/en/summit
